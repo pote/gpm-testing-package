@@ -1,5 +1,5 @@
 package johnny_deps_testing_package
 
 func Version() string {
-	return "v5.0"
+	return "v5.1"
 }
