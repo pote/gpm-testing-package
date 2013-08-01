@@ -1,3 +1,5 @@
 package johnny_deps_testing_package
 
-Version := "v4.0"
+func Version() string {
+	return "v5.0"
+}
