@@ -1,6 +1,6 @@
 ## What's this?
 
-Remember [johnny_deps](https://github.com/VividCortex/johnny_deps)? The Awesome minimalistic package version manager for Go? 
+Remember [johnny_deps](https://github.com/VividCortex/johnny-deps)? The Awesome minimalistic package version manager for Go? 
 
 Ok, this package is only intended to be used in the test suite for johnny_deps, that's why you'll see pretty much
 only a Version function and a lot of git tags.
