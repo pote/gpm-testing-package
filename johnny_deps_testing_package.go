@@ -1,5 +1,5 @@
-package johnny_deps_testing_package
+package gpm_testing_package
 
 func Version() string {
-	return "v5.1"
+	return "v6.0"
 }
