@@ -1,5 +1,5 @@
 package gpm_testing_package
 
 func Version() string {
-	return "v6.0"
+	return "v6.1"
 }
