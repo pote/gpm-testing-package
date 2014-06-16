@@ -1,6 +1,6 @@
 ## What's this?
 
-Remember [gpm](https://github.com/pote/gpm)? The Awesome minimalistic package version manager for Go? 
+Remember [gpm](https://github.com/pote/gpm)? The package version manager for Go? 
 
 Ok, this package is only intended to be used in the test suite for gpm, that's why you'll see pretty much
 only a Version function and a lot of git tags.
